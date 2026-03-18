@@ -1,0 +1,9 @@
+[
+  {
+    "id": "THREAD_001",
+    "date": "2026-02-15 15:27",
+    "from": "Sender <sender@example.com>",
+    "subject": "Order delivered",
+    "labels": ["INBOX", "UNREAD", "IMPORTANT"]
+  }
+]
