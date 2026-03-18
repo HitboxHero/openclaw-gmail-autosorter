@@ -1,0 +1,6 @@
+ID       NAME
+INBOX    INBOX
+STARRED  STARRED
+Label_1  Work
+Label_2  Receipts
+Label_3  Action
