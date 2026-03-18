@@ -1,0 +1,4 @@
+[
+  {"threadId":"THREAD_001","decision":"Receipts","reason":"Delivery/order related."},
+  {"threadId":"THREAD_002","decision":"Action","reason":"Verification code / security action."}
+]
